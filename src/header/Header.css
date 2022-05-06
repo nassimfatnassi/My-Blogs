@@ -1,0 +1,7 @@
+.BlogTitle{
+    font-family: "Caveat";
+    font-size:  5rem !important;
+    background-color: rgb(55, 13, 95);
+    color: bisque !important;
+   border: dotted 1px black ;
+}

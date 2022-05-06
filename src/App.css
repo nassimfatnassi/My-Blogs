@@ -1,0 +1,19 @@
+.btn{
+    background-color: rgb(54, 8, 97) !important; 
+    color : wheat !important;
+    border : hidden !important
+  }
+  .btn:hover{
+    background-color: rgba(89, 19, 151, 0.596) !important; 
+    color : rgb(119, 12, 105) !important
+  }
+* { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Allposts{
+border-right: solid 1px rgb(51, 0, 66);
+}
+.Mynav{
+  background-color: rgb(61, 11, 107);
+}
